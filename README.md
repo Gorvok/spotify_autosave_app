@@ -59,6 +59,12 @@ ex. https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6 (Everything After the
 flask run
 ```
 
+if flask run doesn't work use 
+
+```
+python3 YOUR_FILE_NAME.py
+```
+
 Navigate to http://localhost:8888/login to authenticate with Spotify and start the process.
 
 <h3>Usage</h3>
