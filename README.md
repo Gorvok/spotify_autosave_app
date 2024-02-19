@@ -53,13 +53,7 @@ Ensure .env is listed in your .gitignore file to keep your credentials secure.
 
 ex. https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6 (Everything After the "artist/" so the 7LVC96BEVGugTAp38AajV6)
 
-5. Run the Flask application
-
-```
-flask run
-```
-
-if flask run doesn't work use 
+5. Run the application
 
 ```
 python3 YOUR_FILE_NAME.py
