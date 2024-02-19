@@ -1,3 +1,4 @@
 # .gitignore content
 
 .env
+flask_session/
